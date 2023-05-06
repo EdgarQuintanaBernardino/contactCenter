@@ -1,0 +1,25 @@
+{
+  "name": "ejemplo_componentes",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.16.3",
+    "axios": "^1.4.0",
+    "pinia": "^2.0.32",
+    "quasar": "^2.11.10",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.3.1",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "sass": "^1.32.12",
+    "vite": "^4.1.4"
+  }
+}
